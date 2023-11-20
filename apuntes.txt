@@ -1,0 +1,9 @@
+Una API REST la podéis hacer con:
+    - Python
+    - Java con Spring Boot
+    - Nodejs + Express
+Como se inicializaba proyecto con npm:
+    - npm init -y (sin preguntas)
+    - npm i express
+Recordar crear .gitignore
+    -Añadimos node_modules a .gitignore
